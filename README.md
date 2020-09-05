@@ -12,5 +12,21 @@ Welcome to this repo! You will find ressources for the 6310-A Labs here. The lab
 
 The repo is orgnized with the same structure of the class. Feel free to clone to follow the exercises and examples.
 
+## Important Resources
+It may be daunting to navigate through all the possible resources online, especially with many Twine versions. I have compiled a set of relevant tutorials and materials that I highly encourage you to look at in the *repository's wiki*. 
+
+You can access the wiki cliking on the Wiki link in the menu above or get to it through the following links: 
+
+### Lab 1: Twine Basics
+https://github.com/smilkes/lmc-6310-A/wiki/1-Twine-Basics
+### Lab 2: Twine and Javascript
+https://github.com/smilkes/lmc-6310-A/wiki/2-Twine-and-Javascript
+### Lab 3: Technical checkup
+https://github.com/smilkes/lmc-6310-A/wiki/3-Technical-Checkup
+
+
+
+
+
 ## Note
 For the 6310 class taught by Michael Nitsche and T.A. by Takeria Blunt, go to https://github.com/tblunt18/LMC-6310-
