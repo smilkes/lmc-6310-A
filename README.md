@@ -24,6 +24,8 @@ https://github.com/smilkes/lmc-6310-A/wiki/2-Twine-and-Javascript
 ### Lab 3: Technical checkup
 https://github.com/smilkes/lmc-6310-A/wiki/3-Technical-Checkup
 
+### Lab 5: Introduction to P5.js
+https://github.com/smilkes/lmc-6310-A/wiki/5.-P5:-Introduction
 
 
 
