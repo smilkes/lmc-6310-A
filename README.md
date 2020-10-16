@@ -27,6 +27,12 @@ https://github.com/smilkes/lmc-6310-A/wiki/3-Technical-Checkup
 ### Lab 5: Introduction to P5.js
 https://github.com/smilkes/lmc-6310-A/wiki/5.-P5:-Introduction
 
+### Lab 6: Working with data, user input and APIs
+https://github.com/smilkes/lmc-6310-A/wiki/6:-P5-with-data
+
+### Lab 7: Live Coding with Anne
+
+### Lab 8: Lab feedback and live coding with Anne
 
 
 
